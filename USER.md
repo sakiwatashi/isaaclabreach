@@ -6,7 +6,7 @@
 - **What to call them:** 思遠
 - **Pronouns:** *(optional)*
 - **Timezone:** Asia/Taipei
-- **Notes:** 偏好實用幹練的風格。
+- **Notes:** 偏好實用幹練的風格；希望我協助自動化操作。
 
 ## Context
 
