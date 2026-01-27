@@ -5,7 +5,7 @@
 - **Name:** 思遠
 - **What to call them:** 思遠
 - **Pronouns:** *(optional)*
-- **Timezone:** 
+- **Timezone:** Asia/Taipei
 - **Notes:** 偏好實用幹練的風格。
 
 ## Context
