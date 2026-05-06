@@ -17,9 +17,10 @@ This repository contains a minimal, reach-only package for the UR10 reaching tas
 ## Quick start
 
 ### 1. Clone this repo
-bash
+```bash
 git clone https://github.com/sakiwatashi/isaaclabreach.git
 cd isaaclabreach
+```
 ### 2. Apply the reach overlay to your IsaacLab
 bash
 cd reach_only_package && ./apply_overlay.sh <IsaacLab_path>
